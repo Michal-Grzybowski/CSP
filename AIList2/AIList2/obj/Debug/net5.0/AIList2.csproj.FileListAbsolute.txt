@@ -1,0 +1,16 @@
+C:\Users\Michal\source\repos\AIList2\AIList2\bin\Debug\net5.0\AIList2.exe
+C:\Users\Michal\source\repos\AIList2\AIList2\bin\Debug\net5.0\AIList2.deps.json
+C:\Users\Michal\source\repos\AIList2\AIList2\bin\Debug\net5.0\AIList2.runtimeconfig.json
+C:\Users\Michal\source\repos\AIList2\AIList2\bin\Debug\net5.0\AIList2.runtimeconfig.dev.json
+C:\Users\Michal\source\repos\AIList2\AIList2\bin\Debug\net5.0\AIList2.dll
+C:\Users\Michal\source\repos\AIList2\AIList2\bin\Debug\net5.0\ref\AIList2.dll
+C:\Users\Michal\source\repos\AIList2\AIList2\bin\Debug\net5.0\AIList2.pdb
+C:\Users\Michal\source\repos\AIList2\AIList2\obj\Debug\net5.0\AIList2.csproj.AssemblyReference.cache
+C:\Users\Michal\source\repos\AIList2\AIList2\obj\Debug\net5.0\AIList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\source\repos\AIList2\AIList2\obj\Debug\net5.0\AIList2.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\AIList2\AIList2\obj\Debug\net5.0\AIList2.AssemblyInfo.cs
+C:\Users\Michal\source\repos\AIList2\AIList2\obj\Debug\net5.0\AIList2.csproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\AIList2\AIList2\obj\Debug\net5.0\AIList2.dll
+C:\Users\Michal\source\repos\AIList2\AIList2\obj\Debug\net5.0\ref\AIList2.dll
+C:\Users\Michal\source\repos\AIList2\AIList2\obj\Debug\net5.0\AIList2.pdb
+C:\Users\Michal\source\repos\AIList2\AIList2\obj\Debug\net5.0\AIList2.genruntimeconfig.cache
